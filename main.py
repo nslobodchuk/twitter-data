@@ -2,7 +2,7 @@ from datetime import datetime
 import json
 import os
 import zipfile
-from parser import parse
+from line_parser import parse
 
 start_time = datetime.now()
 config_file = open("config.json")
