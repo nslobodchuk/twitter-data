@@ -1,5 +1,4 @@
 {
-  "path_to_zip_files": "/Projects/twitter-data/zipped_data",
-  "working_directory": "/Projects/twitter-data/working_directory",
-  "path_to_mongo_db": ""
+  "path_to_zip_files": "/Users/nslobodchuk/Projects/twitter-data/twitter-data-zip",
+  "working_directory": "/Users/nslobodchuk/Projects/twitter-data/twitter-data-working-directory"
 }
