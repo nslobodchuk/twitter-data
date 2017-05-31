@@ -1,16 +1,15 @@
 from pymongo import MongoClient
+from datetime import datetime
 
 client = MongoClient()
 db = client.twitter_data
 tweets = db.tweets
 handles = db.handles
 
-
-
 n_tweets = tweets.count()
 cursor_tweets = tweets.find()
-#query1 = tweets.find({"entities.user_mentions.0": {"$exists": True}})
-#print(query1.count())
+# query1 = tweets.find({"entities.user_mentions.0": {"$exists": True}})
+# print(query1.count())
 
 count = -1
 tweets_with_mentions_count = 0
@@ -24,11 +23,12 @@ handles_count = 0
 
 for d in cursor_tweets:
     count += 1
-    if count % 1000000 ==0:
+    if count % 1000000 == 0:
         print(count, "done out of a total of", n_tweets)
+        print(datetime.now())
     user_mentions_length = len(d["entities"]["user_mentions"])
     tweets.update_one({"_id": d["_id"]},
-                  {"$set": {"entities.user_mentions_length": user_mentions_length}})
+                      {"$set": {"entities.user_mentions_length": user_mentions_length}})
     if user_mentions_length > 0:
         tweets_with_mentions_count += 1
         for user_object in d["entities"]["user_mentions"]:
@@ -60,8 +60,3 @@ print("Out of tweets with mentions the number of retweets is", retweets_count)
 print("Out of tweets with mentions the number of tweets with 'coordinates' field is", coordinates_count)
 print("Out of tweets with mentions the number of tweets with 'place' field is", place_count)
 print("The number of distinct handles is", handles_count)
-
-
-
-
-
