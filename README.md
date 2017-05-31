@@ -45,8 +45,9 @@ The number of networks with 50 or more descendants is 29264
 The number of networks with 100 or more descendants is 14724
 The number of networks with 1000 or more descendants is 1257
 ```
-The choice of wording is poor. Here `the number of networks` means the number of networks with 1 node. `The number
-of networks with 1 or more descendants` means the number of networks with 2 nodes. And so on...
-
+The choice of wording is poor. Here `the number of networks` means the number of networks with 1 or more nodes.
+`The number of networks with 1 or more descendants` means the number of networks with 2 nodes. And so on... Note that
+the number of networks if less than the number of tweets. Note also that a tweet with 0 replies is considered
+a network with 1 node.
 
 
