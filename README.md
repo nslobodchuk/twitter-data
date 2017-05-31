@@ -48,6 +48,8 @@ The number of networks with 1000 or more descendants is 1257
 The choice of wording is poor. Here `the number of networks` means the number of networks with 1 or more nodes.
 `The number of networks with 1 or more descendants` means the number of networks with 2 nodes. And so on... Note that
 the number of networks is less than the number of tweets. Note also that a tweet with 0 replies is considered
-a network with 1 node.
+a network with 1 node. Another thing to note is that if a tweet (a child) is a reply to another tweet (a parent),
+and the parent is not present in the database, the parent node is still stored in the networks database (in other
+words, the total number of nodes in all networks is larger than the total number of tweets in the database).
 
 
