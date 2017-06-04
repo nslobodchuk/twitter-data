@@ -11,3 +11,4 @@ This text describes how parse a JSON file with tweets in order to visualize rela
 8. `python3 twitter_parser.py`
 9. `python3 -m http.server 8888`
 10. Open the browser and navigate to http://localhost:8888
+11. You should see the same graph as here https://bl.ocks.org/nslobodchuk/raw/faceb2384115046e18243c5e762b7cb3/
