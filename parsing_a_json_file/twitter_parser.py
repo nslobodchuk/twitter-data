@@ -55,7 +55,7 @@ with open("tweets.json") as json_file, \
                     # ... received replies from other users
                     network[d["in_reply_to_user_id_str"]]["n_replies_from"] += 1
 
-        if count % 100000 == 0:  # Print a message every 10k lines
+        if count % 100000 == 0:  # Print a message every 100k lines
             print(count, "lines parsed.")
         count += 1
 
