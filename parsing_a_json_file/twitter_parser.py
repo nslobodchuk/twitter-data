@@ -13,7 +13,7 @@ def insert_user(id_str, screen_name=None):  # A function which ...
                            "n_replies_from": 0,  # The number of times other users replied to this user
                            "n_replies_to": 0,  # The number of times this user replied to other users
                            "replies_from": {},  # The dictionary of users who replied to this user
-                           "replies_to": {}  # The dictionary of users who replied to this user
+                           "replies_to": {}  # The dictionary of users who this user replied to
                            }
     else:  # ... increments the number of tweets by the user if the user already exists.
         network[id_str]["n_tweets"] += 1
