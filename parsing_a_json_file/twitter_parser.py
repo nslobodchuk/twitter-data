@@ -65,7 +65,7 @@ print("Generating output...")
 # network dictionary contains too many entries. We can't visualize them all.
 # We need to leave only the most important users.
 for user_id in list(network.keys()):
-    if network[user_id]["n_replies_from"] < 9: #  Delete all users who received less than 10 replies from other users
+    if network[user_id]["n_replies_from"] < 9: #  Delete all users who received less than 9 replies from other users
         for key in network[user_id]["replies_from"]:
             del network[key]["replies_to"][user_id]
         for key in network[user_id]["replies_to"]:
