@@ -2,7 +2,7 @@ import json
 import csv
 from accessors import accessors
 
-with open("tweets.03.02.2016.json") as json_file, \
+with open("tweets.json") as json_file, \
         open("output.csv", "w+") as output_file, \
         open("errors.csv", "w+") as errors_file:
     output_writer = csv.writer(output_file)
