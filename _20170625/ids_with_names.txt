@@ -1,0 +1,596 @@
+Alabama	Robert Bentley	DrRobertBentley	Governor	R	39525554
+Alaska	Bill Walker	AkGovBillWalker	Governor	I	2915095729
+Arizona	Doug Ducey	dougducey	Governor	R	20217019
+Arkansas	Asa Hutchinson	AsaHutchinson	Governor	R	269992801
+California	Jerry Brown	JerryBrownGov	Governor	D	19418459
+Colorado	John Hickenlooper	hickforco	Governor	D	117839957
+Connecticut	Dannel Malloy	GovMalloyOffice	Governor	D	234141596
+Delaware	Jack Markell	GovernorMarkell	Governor	D	48724141
+Florida	Rick Scott	FLGovScott	Governor	R	131546062
+Georgia	Nathan Deal	GovernorDeal	Governor	R	217416964
+Hawaii	David Ige	GovHawaii	Governor	D	2916915026
+Idaho	Butch Otter	ButchOtter	Governor	R	36396752
+Illinois	Bruce Rauner	GovRauner	Governor	R	2862555526
+Indiana	Mike Pence	GovPenceIN	Governor	R	15985455
+Iowa	Terry Branstad	TerryBranstad	Governor	R	84406725
+Kansas	Sam Brownback	govsambrownback	Governor	R	89193992
+Kentucky	Matt Bevin	MattBevin	Governor	R	1404269089
+Louisiana	John Bel Edwards	LouisianaGov	Governor	D	166374616
+Maine	Paul LePage	Governor_LePage	Governor	R	637143497
+Maryland	Larry Hogan	LarryHogan	Governor	R	2987671552
+Massachusetts	Charlie Baker	MassGovernor	Governor	R	18023868
+Michigan	Rick Snyder	onetoughnerd	Governor	R	113036476
+Minnesota	Mark Dayton	GovMarkDayton	Governor	D	216481299
+Mississippi	Phil Bryant	PhilBryantMS	Governor	R	231592153
+Missouri	Jay Nixon	GovJayNixon	Governor	D	34308692
+Montana	Steve Bullock	GovernorBullock	Governor	D	111721601
+Nebraska	Pete Ricketts	GovRicketts	Governor	R	2891165960
+Nevada	Brian Sandoval	BrianSandoval	Governor	R	66891808
+New Hampshire	Maggie Hassan	SenatorHassan	Governor	D	946549322
+New Jersey	Chris Christie	GovChristie	Governor	R	90484508
+New Mexico	Susana Martinez	Gov_Martinez	Governor	R	57963724
+New York	Andrew Cuomo	NYGovCuomo	Governor	D	232268199
+North Carolina	Pat McCrory	PatMcCroryNC	Governor	R	66602794
+North Dakota	Jack Dalrymple	dalrympleforgov	Governor	R	236975376
+Ohio	John Kasich	JohnKasich	Governor	R	18020081
+Oklahoma	Mary Fallin	GovMaryFallin	Governor	R	194233791
+Oregon	Kate Brown	KateBrownForOR	Governor	D	415117361
+Pennsylvania	Tom Wolf	GovernorTomWolf	Governor	D	2978837542
+Rhode Island	Gina Raimondo	GinaRaimondo	Governor	D	240778059
+South Carolina	Nikki Haley	nikkihaley	Governor	R	37666984
+South Dakota	Dennis Daugaard	SDGovDaugaard	Governor	R	234406945
+Tennessee	Bill Haslam	BillHaslam	Governor	R	26103389
+Texas	Greg Abbott	GregAbbott_TX	Governor	R	90651198
+Utah	Gary Herbert	GovHerbert	Governor	R	60688326
+Vermont	Peter Shumlin	GovPeterShumlin	Governor	D	231854033
+Virginia	Terry McAuliffe	GovernorVA	Governor	D	104198706
+Washington	Jay Inslee	GovInslee	Governor	D	1077214808
+West Virginia	Earl Ray Tomblin		Governor	D	
+Wisconsin	Scott Walker	ScottWalker	Governor	R	33750798
+Wyoming	Matt Mead	GovMattMead	Governor	R	2303719598
+Alabama 1	Bradley Byrne	RepByrne	House	R	2253968388
+Alabama 2	Martha Roby	RepMarthaRoby	House	R	224294785
+Alabama 3	Mike Rogers	RepMikeRogers	House	R	156703580
+Alabama 4	Robert Aderholt	Robert_Aderholt	House	R	76452765
+Alabama 5	Mo Brooks	RepMoBrooks	House	R	237299871
+Alabama 6	 Gary Palmer	USRepGaryPalmer	House	R	2861616083
+Alabama 7	Terri Sewell	RepTerriSewell	House	D	381152398
+Alaska	Don Young	repdonyoung	House	R	37007274
+Arizona 1	Ann Kirkpatrick	Ann_Kirkpatrick	House	D	272004287
+Arizona 2	 Martha McSally	RepMcSally	House	R	2964949642
+Arizona 3	Raúl Grijalva	RepRaulGrijalva	House	D	28602948
+Arizona 4	Paul Gosar	RepGosar	House	R	240760644
+Arizona 5	Matt Salmon	salmoncongress	House	R	281796440
+Arizona 6	David Schweikert	RepDavid	House	R	229197216
+Arizona 7	Ruben Gallego	RepRubenGallego	House	D	2966570782
+Arizona 8	Trent Franks	RepTrentFranks	House	R	24773493
+Arizona 9	Kyrsten Sinema	RepSinema	House	D	1080844782
+Arkansas 1	Rick Crawford	RepRickCrawford	House	R	233693291
+Arkansas 2	French Hill	RepFrenchHill	House	R	2953974395
+Arkansas 3	Steve Womack	rep_stevewomack	House	R	234469322
+Arkansas 4	Bruce Westerman	WestermanAR	House	R	1592481150
+California 1	Doug LaMalfa	RepLaMalfa	House	R	1069124515
+California 2	Jared Huffman	RepHuffman	House	D	1071102246
+California 3	John Garamendi	RepGaramendi	House	D	88806753
+California 4	Tom McClintock	RepMcClintock	House	R	50152441
+California 5	Mike Thompson	RepThompson	House	D	303861808
+California 6	Doris Matsui	DorisMatsui	House	D	38254095
+California 7	Ami Bera	RepBera	House	D	950783972
+California 8	Paul Cook	RepPaulCook	House	R	1074412920
+California 9	Jerry McNerney	RepMcNerney	House	D	385429543
+California 10	Jeff Denham	RepJeffDenham	House	R	248699486
+California 11	Mark DeSaulnier	RepDeSaulnier	House	D	2968007206
+California 12	Nancy Pelosi	NancyPelosi	House	D	15764644
+California 13	 Barbara Lee	RepBarbaraLee	House	D	248735463
+California 14	Jackie Speier	RepSpeier	House	D	24913074
+California 15	Eric Swalwell	RepSwalwell	House	D	942156122
+California 16	Jim Costa	RepJimCosta	House	D	245451804
+California 17	Mike Honda	RepMikeHonda	House	D	16583468
+California 18	Anna Eshoo	RepAnnaEshoo	House	D	249348006
+California 19	Zoe Lofgren	RepZoeLofgren	House	D	267938462
+California 20	Sam Farr		House	D	
+California 21	David Valadao	RepDavidValadao	House	R	1128514404
+California 22	Devin Nunes	DevinNunes	House	R	54412900
+California 23	Kevin McCarthy	kevinomccarthy	House	R	15428227
+California 24	Lois Capps	RepLoisCapps	House	D	292990703
+California 25	Steve Knight	SteveKnight25	House	R	2974648323
+California 26	Julia Brownley	JuliaBrownley26	House	D	1243902714
+California 27	Judy Chu	RepJudyChu	House	D	193732179
+California 28	Adam Schiff	RepAdamSchiff	House	D	29501253
+California 29	Tony Cárdenas	RepCardenas	House	D	1222257180
+California 30	Brad Sherman	BradSherman	House	D	30216513
+California 31	Pete Aguilar	RepPeteAguilar	House	D	3018670151
+California 32	Grace Napolitano	gracenapolitano	House	D	161411080
+California 33	Ted Lieu	tedlieu	House	D	21059255
+California 34	Xavier Becerra	AGBecerra	House	D	133832049
+California 35	Norma Torres	NormaJTorres	House	D	236279233
+California 36	 Raul Ruiz	CongressmanRuiz	House	D	1089859058
+California 37	Karen Bass	RepKarenBass	House	D	239949176
+California 38	Linda Sánchez	RepLindaSanchez	House	D	312134473
+California 39	Ed Royce	RepEdRoyce	House	R	246769138
+California 40	Lucille Roybal-Allard	RepRoybalAllard	House	D	479872233
+California 41	Mark Takano	RepMarkTakano	House	D	1037321378
+California 42	Ken Calvert	KenCalvert	House	R	22545491
+California 43	Maxine Waters	MaxineWaters	House	D	36686040
+California 44	Janice Hahn	SupJaniceHahn	House	D	339852137
+California 45	Mimi Walters	RepMimiWalters	House	D	47798449
+California 46	Loretta Sanchez	LorettaSanchez	House	D	108376246
+California 47	Alan Lowenthal	RepLowenthal	House	D	1055730738
+California 48	Dana Rohrabacher	DanaRohrabacher	House	R	19139963
+California 49	Darrell Issa	DarrellIssa	House	R	22509548
+California 50	Duncan D. Hunter	Rep_Hunter	House	R	1305596696
+California 51	Juan Vargas	RepJuanVargas	House	D	1260172386
+California 52	Scott Peters	ScottPetersSD	House	D	292594517
+California 53	Susan Davis	RepSusanDavis	House	D	432771620
+Colorado 1	Diana DeGette	RepDianaDeGette	House	D	28599820
+Colorado 2	Jared Polis	jaredpolis	House	D	15361570
+Colorado 3	Scott Tipton	RepTipton	House	R	242873057
+Colorado 4	Ken Buck	RepKenBuck	House	R	2862577383
+Colorado 5	Doug Lamborn	RepDLamborn	House	R	584012853
+Colorado 6	Mike Coffman	RepMikeCoffman	House	R	19407835
+Colorado 7	Ed Perlmutter	RepPerlmutter	House	D	20552026
+Connecticut 1	John B. Larson		House	D	
+Connecticut 2	Joe Courtney	RepJoeCourtney	House	D	85396297
+Connecticut 3	Rosa DeLauro	rosadelauro	House	D	140519774
+Connecticut 4	Jim Himes	jahimes	House	D	31611298
+Connecticut 5	Elizabeth Esty	RepEsty	House	D	1060984272
+Delaware	John Carney	JohnCarneyDE	House	D	237770636
+Florida 1	Jeff Miller	RepJeffMiller	House	R	1061292174
+Florida 2	Gwen Graham	GwenGraham	House	D	1283359081
+Florida 3	Ted Yoho	RepTedYoho	House	R	1071900114
+Florida 4	Ander Crenshaw	AnderCrenshaw	House	R	20209807
+Florida 5	Corrine Brown		House	D	
+Florida 6	Ron DeSantis	RepDeSantis	House	R	1058807868
+Florida 7	John Mica	micaforcongress	House	R	562965097
+Florida 8	Bill Posey	congbillposey	House	R	25086658
+Florida 9	Alan Grayson	AlanGrayson	House	D	41017380
+Florida 10	Daniel Webster	RepWebster	House	R	281540744
+Florida 11	Daniel Webster	RepWebster	House	R	281540744
+Florida 12	Gus Bilirakis	RepGusBilirakis	House	R	26051676
+Florida 13	David Jolly	USRepDavidJolly	House	R	2482022082
+Florida 14	Kathy Castor	USRepKCastor	House	D	1880674038
+Florida 15	Dennis Ross	RepDennisRoss	House	R	33655490
+Florida 16	Vern Buchanan	VernBuchanan	House	R	20467163
+Florida 17	Tom Rooney	TomRooney	House	R	23970171
+Florida 18	Patrick Murphy	PatrickMurphyFL	House	D	261852987
+Florida 19	Curt Clawson	RepCurtClawson	House	R	2730150631
+Florida 20	Alcee Hastings	RepHastingsFL	House	D	2433737761
+Florida 21	Ted Deutch	RepTedDeutch	House	D	137794015
+Florida 22	Lois Frankel	RepLoisFrankel	House	D	1077121945
+Florida 23	Debbie Wasserman Schultz	DWStweets	House	D	115979444
+Florida 24	Frederica Wilson	RepWilson	House	D	234014087
+Florida 25	Mario Díaz-Balart	MarioDB	House	R	37094727
+Florida 26	Carlos Curbelo	carloslcurbelo	House	R	1177437224
+Florida 27	Ileana Ros-Lehtinen	RosLehtinen	House	R	14275291
+Georgia 1	Buddy Carter	RepBuddyCarter	House	R	2973870195
+Georgia 2	Sanford Bishop	SanfordBishop	House	D	249410485
+Georgia 3	Lynn Westmoreland	Westmoreland_GA	House	R	137407124
+Georgia 4	Hank Johnson	RepHankJohnson	House	D	24745957
+Georgia 5	John Lewis	johnlewisretail	House	D	126664172
+Georgia 6	Tom Price	RepTomPrice	House	R	6577802
+Georgia 7	Rob Woodall	RepRobWoodall	House	R	2382685057
+Georgia 8	Austin Scott	AustinScottGA08	House	R	234797704
+Georgia 9	Doug Collins	RepDougCollins	House	R	1060487274
+Georgia 10	Jody Hice	CongressmanHice	House	R	2975091705
+Georgia 11	Barry Loudermilk	RepLoudermilk	House	R	2914163523
+Georgia 12	Rick W. Allen	RepRickAllen	House	R	2964287128
+Georgia 13	David Scott	repdavidscott	House	D	168673083
+Georgia 14	Tom Graves	RepTomGraves	House	R	190328374
+Hawaii 1	Mark Takai	RepMarkTakai	House	D	2975350155
+Hawaii 2	Tulsi Gabbard	TulsiPress	House	D	1064206014
+Idaho 1	Raúl Labrador	Raul_Labrador	House	D	246341769
+Idaho 2	Mike Simpson	CongMikeSimpson	House	D	76132891
+Illinois 1	Bobby Rush	RepBobbyRush	House	D	305216911
+Illinois 2	 Robin Kelly	RepRobinKelly	House	D	1339931490
+Illinois 3	Dan Lipinski	RepLipinski	House	D	1009269193
+Illinois 4	Luis Gutiérrez	RepGutierrez	House	D	36948268
+Illinois 5	Mike Quigley	RepMikeQuigley	House	D	56864092
+Illinois 6	Peter Roskam	PeterRoskam	House	R	20015903
+Illinois 7	Danny K. Davis	DannyKDavis	House	D	53941120
+Illinois 8	Tammy Duckworth	SenDuckworth	House	D	1058520120
+Illinois 9	Jan Schakowsky	janschakowsky	House	D	24195214
+Illinois 10	Robert Dold	RepDold	House	R	245408102
+Illinois 11	Bill Foster	RepBillFoster	House	D	1080509366
+Illinois 12	Mike Bost	RepBost	House	R	2964877294
+Illinois 13	Rodney Davis	RodneyDavis	House	R	993153006
+Illinois 14	Randy Hultgren	RepHultgren	House	R	237814920
+Illinois 15	John Shimkus	RepShimkus	House	R	15600527
+Illinois 16	Adam Kinzinger	RepKinzinger	House	R	219429281
+Illinois 17	Cheri Bustos	RepCheri	House	D	1092979962
+Illinois 18	Darin LaHood	RepLaHood	House	R	3686482216
+Indiana 1	Pete Visclosky	RepVisclosky	House	D	193872188
+Indiana 2	Jackie Walorski	RepWalorski	House	R	1065995022
+Indiana 3	Marlin Stutzman	RepStutzman	House	R	211901075
+Indiana 4	Todd Rokita	ToddRokita	House	R	17544524
+Indiana 5	Susan Brooks	SusanWBrooks	House	R	1074101017
+Indiana 6	Luke Messer	RepLukeMesser	House	R	1045853744
+Indiana 7	André Carson	RepAndreCarson	House	D	199325935
+Indiana 8	Larry Bucshon	RepLarryBucshon	House	R	234812598
+Indiana 9	Todd Young	SenToddYoung	House	R	234128524
+Iowa 1	Rod Blum	RepRodBlum	House	R	2965083477
+Iowa 2	Dave Loebsack	daveloebsack	House	D	510516465
+Iowa 3	David Young	RepDavidYoung	House	R	314205957
+Iowa 4	Steve King	SteveKingIA	House	R	48117116
+Kansas 1	Tim Huelskamp	CongHuelskamp	House	R	233761277
+Kansas 2	Lynn Jenkins	RepLynnJenkins	House	R	19658173
+Kansas 3	Kevin Yoder	RepKevinYoder	House	R	252819642
+Kansas 4	Mike Pompeo	RealMikePompeo	House	R	817404026992152000
+Kentucky 1	Ed Whitfield	RepEdWhitfield	House	R	234906311
+Kentucky 2	Brett Guthrie	RepGuthrie	House	R	1908143071
+Kentucky 3	 John Yarmuth	RepJohnYarmuth	House	D	384913290
+Kentucky 4	Thomas Massie	RepThomasMassie	House	R	975200486
+Kentucky 5	Hal Rogers	RepHalRogers	House	R	550401754
+Kentucky 6	Andy Barr	RepAndyBarr	House	R	1089334250
+Louisiana 1	Steve Scalise	SteveScalise	House	R	1209417007
+Louisiana 2	Cedric Richmond	CedricRichmond	House	D	142419647
+Louisiana 3	Clay Higgins	RepClayHiggins	House	R	843636970538618000
+Louisiana 4	Mike Johnson	RepMikeJohnson	House	R	827279765287559000
+Louisiana 5	Ralph Abraham	RepAbraham	House	R	2962891515
+Louisiana 6	Garret Graves	RepGarretGraves	House	R	2951574214
+Maine 1	Chellie Pingree	chelliepingree	House	D	14984637
+Maine 2	Bruce Poliquin	RepPoliquin	House	R	2932617195
+Maryland 1	Andy Harris	RepAndyHarrisMD	House	R	960962340
+Maryland 2	Dutch Ruppersberger	Call_Me_Dutch	House	D	305620929
+Maryland 3	John Sarbanes	RepSarbanes	House	D	364415553
+Maryland 4	Donna Edwards	repdonnaedwards	House	D	82649553
+Maryland 5	Steny Hoyer	WhipHoyer	House	D	22012091
+Maryland 6	John Delaney	RepJohnDelaney	House	D	937723303
+Maryland 7	 Elijah Cummings	RepCummings	House	D	787373558
+Maryland 8	Jamie Raskin	jamie_raskin	House	D	549579841
+Massachusetts 1	Richard Neal	RepRichardNeal	House	D	442824717
+Massachusetts 2	Jim McGovern	RepMcGovern	House	D	242426145
+Massachusetts 3	Niki Tsongas	nikiinthehouse	House	D	242892689
+Massachusetts 4	Joe Kennedy	RepJoeKennedy	House	D	1055907624
+Massachusetts 5	Katherine Clark	RepKClark	House	D	2293131060
+Massachusetts 6	Seth Moulton	sethmoulton	House	D	248495200
+Massachusetts 7	Mike Capuano	RepMikeCapuano	House	D	747806211983179000
+Massachusetts 8	Stephen F. Lynch	RepLynch	House	D	130901013
+Massachusetts 9	Bill Keating	USRepKeating	House	D	232992031
+Michigan 1	Dan Benishek	CongressmanDan	House	R	242761889
+Michigan 2	Bill Huizenga	RepHuizenga	House	R	233949261
+Michigan 3	Justin Amash	justinamash	House	R	233842454
+Michigan 4	John Moolenaar	RepMoolenaar	House	R	2696643955
+Michigan 5	Dan Kildee	RepDanKildee	House	D	1045110018
+Michigan 6	Fred Upton	RepFredUpton	House	R	124224165
+Michigan 7	Tim Walberg	RepWalberg	House	R	237862972
+Michigan 8	Mike Bishop	RepMikeBishop	House	R	2914571740
+Michigan 9	Sander Levin	Levin4Congress	House	D	705472141
+Michigan 10	Candice Miller	CandiceMiller	House	R	15281676
+Michigan 11	David Trott	repdavetrott	House	R	2869746172
+Michigan 12	Debbie Dingell	DebDingell	House	D	2361650234
+Michigan 13	John Conyers	RepJohnConyers	House	D	138770045
+Michigan 14	Brenda Lawrence	RepLawrence	House	D	2863006655
+Minnesota 1	Tim Walz	RepTimWalz	House	D	1262814457
+Minnesota 2	John Kline	repjohnkline	House	R	76350004
+Minnesota 3	Erik Paulsen	RepErikPaulsen	House	R	17513304
+Minnesota 4	Betty McCollum	BettyMcCollum04	House	D	516880804
+Minnesota 5	Keith Ellison	keithellison	House	D	14135426
+Minnesota 6	Tom Emmer	RepTomEmmer	House	R	2914515430
+Minnesota 7	Collin Peterson	collinpeterson	House	D	115676070
+Minnesota 8	Rick Nolan	USRepRickNolan	House	D	1055685948
+Mississippi 1	Trent Kelly	RepTrentKelly	House	R	3317799825
+Mississippi 2	Bennie Thompson	BennieGThompson	House	D	82453460
+Mississippi 3	Gregg Harper	GreggHarper	House	R	23712174
+Mississippi 4	Steven Palazzo	CongPalazzo	House	R	299883942
+Missouri 1	William Clay	LacyClayMO1	House	D	584912320
+Missouri 2	Ann Wagner	RepAnnWagner	House	R	1051446626
+Missouri 3	Blaine Luetkemeyer	RepBlainePress	House	R	1849261916
+Missouri 4	Vicky Hartzler	RepHartzler	House	R	237763317
+Missouri 5	Emanuel Cleaver	repcleaver	House	D	163570705
+Missouri 6	Sam Graves	RepSamGraves	House	R	29766367
+Missouri 7	Billy Long	usreplong	House	R	1444015610
+Missouri 8	Jason T. Smith	RepJasonSmith	House	R	1623308912
+Montana	Greg Gianforte	GregForMontana	House	R	3420965229
+Nebraska 1	Jeff Fortenberry	JeffFortenberry	House	R	18805303
+Nebraska 2	Don Bacon	RepDonBacon	House	R	8188975124460330000
+Nebraska 3	Adrian Smith	RepAdrianSmith	House	R	296245061
+Nevada 1	Dina Titus	repdinatitus	House	D	122174004
+Nevada 2	Mark Amodei	MarkAmodeiNV2	House	R	402719755
+Nevada 3	Joe Heck		House	R	
+Nevada 4	Cresent Hardy	RepHardy	House	R	2964222544
+New Hampshire 1	Carol Shea-Porter	TeamSheaPorter	House	D	154139987
+New Hampshire 2	Ann McLane Kuster	RepAnnieKuster	House	D	1058717720
+New Jersey 1	Donald Norcross	DonaldNorcross	House	D	3122099613
+New Jersey 2	Frank LoBiondo	RepLoBiondo	House	R	241207373
+New Jersey 3	Tom MacArthur	RepTomMacArthur	House	R	2962994194
+New Jersey 4	Chris Smith	RepChrisSmith	House	R	1289319271
+New Jersey 5	Scott Garrett	RepGarrett	House	R	960696949
+New Jersey 6	Frank Pallone	FrankPallone	House	D	31801993
+New Jersey 7	Leonard Lance	RepLanceNJ7	House	R	613725908
+New Jersey 8	Albio Sires	RepSires	House	D	18696134
+New Jersey 9	 Bill Pascrell	BillPascrell	House	D	74508260
+New Jersey 10	Donald Payne, Jr.	RepDonaldPayne	House	D	1155335864
+New Jersey 11	Rodney Frelinghuysen	USRepRodney	House	R	1382011333
+New Jersey 12	Bonnie Watson Coleman	RepBonnie	House	D	2968451607
+New Mexico 1	Michelle Lujan Grisham	RepLujanGrisham	House	D	1061385474
+New Mexico 2	Steve Pearce	RepStevePearce	House	R	235271965
+New Mexico 3	Ben Luján	repbenraylujan	House	D	19318314
+New York 1	Lee Zeldin	RepLeeZeldin	House	R	2750127259
+New York 2	Peter King	RepPeteKing	House	R	18277655
+New York 3	Steve Israel	RepSteveIsrael	House	D	20002401
+New York 4	Kathleen Rice	RepKathleenRice	House	D	2970462034
+New York 5	Gregory Meeks	GregoryMeeks	House	D	22812754
+New York 6	Grace Meng	RepGraceMeng	House	D	1051127714
+New York 7	Nydia Velázquez	NydiaVelazquez	House	D	164369297
+New York 8	Hakeem Jeffries	RepJeffries	House	D	467823431
+New York 9	Yvette Clarke	RepYvetteClarke	House	D	240812994
+New York 10	Jerrold Nadler	RepJerryNadler	House	D	40302336
+New York 11	Daniel Donovan	RepDanDonovan	House	R	3353670647
+New York 12	Carolyn Maloney	RepMaloney	House	D	258900199
+New York 13	Charles Rangel	cbrangel	House	D	21312077
+New York 14	Joseph Crowley	RepJoeCrowley	House	D	111635980
+New York 15	José Serrano	RepJoseSerrano	House	D	33563161
+New York 16	Eliot Engel	RepEliotEngel	House	D	164007407
+New York 17	Nita Lowey	NitaLowey	House	D	221792092
+New York 18	Sean Patrick Maloney	RepSeanMaloney	House	D	1072467470
+New York 19	Chris Gibson	RepChrisGibson	House	R	234937222
+New York 20	Paul Tonko	RepPaulTonko	House	D	84119348
+New York 21	Elise Stefanik	RepStefanik	House	R	2962813893
+New York 22	Richard L. Hanna	RepRichardHanna	House	R	236899846
+New York 23	Tom Reed	RepTomReed	House	R	252819323
+New York 24	John Katko	RepJohnKatko	House	R	2966765501
+New York 25	Louise Slaughter	louiseslaughter	House	D	63169388
+New York 26	Brian Higgins	RepBrianHiggins	House	D	33576489
+New York 27	Chris Collins	RepChrisCollins	House	R	1058256326
+North Carolina 1	G. K. Butterfield	GKButterfield	House	D	432676344
+North Carolina 2	George Holding	RepHolding	House	R	1058460818
+North Carolina 3	Walter Jones	RepWalterJones	House	R	26778110
+North Carolina 4	David Price	RepDavidEPrice	House	D	155669457
+North Carolina 5	Virginia Foxx	virginiafoxx	House	R	16256269
+North Carolina 6	Mark Walker	RepMarkWalker	House	R	2966205003
+North Carolina 7	David Rouzer	RepDavidRouzer	House	R	834069080
+North Carolina 8	Richard Hudson	RepRichHudson	House	R	935033864
+North Carolina 9	Robert Pittenger	reppittenger	House	R	950328072
+North Carolina 10	Patrick McHenry	PatrickMcHenry	House	R	27676828
+North Carolina 11	Mark Meadows	RepMarkMeadows	House	R	963480595
+North Carolina 12	Alma Adams	RepAdams	House	D	2916086925
+North Carolina 13	George Holding	RepHolding	House	R	1058460818
+North Dakota	Kevin Cramer	RepKevinCramer	House	R	1048784496
+Ohio 1	Steve Chabot	RepSteveChabot	House	R	237750442
+Ohio 2	Brad Wenstrup	RepBradWenstrup	House	R	518644221
+Ohio 3	Joyce Beatty	RepBeatty	House	D	1531521632
+Ohio 4	Jim Jordan	Jim_Jordan	House	R	18166778
+Ohio 5	Bob Latta	boblatta	House	R	15394954
+Ohio 6	Bill Johnson	RepBillJohnson	House	R	211530910
+Ohio 7	Bob Gibbs	RepBobGibbs	House	R	234822928
+Ohio 8	Warren Davidson	WarrenDavidson	House	R	742735530287304000
+Ohio 9	Marcy Kaptur	RepMarcyKaptur	House	D	581141508
+Ohio 10	Mike Turner	RepMikeTurner	House	R	51228911
+Ohio 11	Marcia Fudge	RepMarciaFudge	House	D	153486399
+Ohio 12	Pat Tiberi	PatTiberi	House	R	912608010
+Ohio 13	Tim Ryan	RepTimRyan	House	D	13491312
+Ohio 14	David Joyce	RepDaveJoyce	House	R	976969338
+Ohio 15	 Steve Stivers	RepSteveStivers	House	R	211420609
+Ohio 16	Jim Renacci	RepJimRenacci	House	R	236916916
+Oklahoma 1	Jim Bridenstine	RepJBridenstine	House	R	1092757885
+Oklahoma 2	Markwayne Mullin	RepMullin	House	R	1060370282
+Oklahoma 3	Frank Lucas	RepFrankLucas	House	R	242772524
+Oklahoma 4	Tom Cole	TomColeOK04	House	R	23124635
+Oklahoma 5	Steve Russell	RepRussell	House	R	2966758114
+Oregon 1	Suzanne Bonamici	RepBonamici	House	D	558769636
+Oregon 2	Greg Walden	repgregwalden	House	R	32010840
+Oregon 3	Earl Blumenauer	repblumenauer	House	D	15954997
+Oregon 4	Peter DeFazio	RepPeterDeFazio	House	D	252249233
+Oregon 5	Kurt Schrader	RepSchrader	House	D	20545793
+Pennsylvania 1	Bob Brady	RepBrady	House	D	148453195
+Pennsylvania 2	Chaka Fattah	chakafattah	House	D	48086014
+Pennsylvania 3	Mike Kelly	MikeKellyPA	House	R	935368364
+Pennsylvania 4	Scott Perry	RepScottPerry	House	R	18773159
+Pennsylvania 5	Glenn Thompson	CongressmanGT	House	R	18967498
+Pennsylvania 6	Ryan Costello	RepRyanCostello	House	R	2953922782
+Pennsylvania 7	Pat Meehan	RepMeehan	House	R	248850174
+Pennsylvania 8	Mike Fitzpatrick	RepFitzpatrick	House	R	237944147
+Pennsylvania 9	Bill Shuster	RepBillShuster	House	R	22527499
+Pennsylvania 10	Tom Marino	RepTomMarino	House	R	240363117
+Pennsylvania 11	Lou Barletta	RepLouBarletta	House	R	239871673
+Pennsylvania 12	Keith Rothfus	KeithRothfus	House	R	1155212191
+Pennsylvania 13	Brendan F. Boyle	CongBoyle	House	D	4304448314
+Pennsylvania 14	Michael Doyle	usrepmikedoyle	House	D	39249305
+Pennsylvania 15	Charlie Dent	RepCharlieDent	House	R	242376736
+Pennsylvania 16	Joe Pitts		House	R	
+Pennsylvania 17	Matt Cartwright	RepCartwright	House	D	776664410
+Pennsylvania 18	Timothy F. Murphy	timmurphypa	House	R	130929441
+Rhode Island 1	David Cicilline	RepCicilline	House	D	462143773
+Rhode Island 2	Jim Langevin	JimLangevin	House	D	18909919
+South Carolina 1	Mark Sanford	RepSanfordSC	House	R	1499993378
+South Carolina 2	Joe Wilson	RepJoeWilson	House	R	254082173
+South Carolina 3	Jeff Duncan	RepJeffDuncan	House	R	240393970
+South Carolina 4	Trey Gowdy	TGowdySC	House	R	237348797
+South Carolina 5	Mick Mulvaney	reqMickMulvaney	House	R	3148912095
+South Carolina 6	Jim Clyburn	ClyburnSC06	House	D	2389877058
+South Carolina 7	Tom Rice	RepTomRice	House	R	1058345042
+South Dakota	Kristi Noem	RepKristiNoem	House	R	235251868
+Tennessee 1	Phil Roe	DrPhilRoe	House	R	52503751
+Tennessee 2	Jimmy Duncan	repjohnduncanjr	House	R	1883356866
+Tennessee 3	Chuck Fleischmann	RepChuck	House	R	235190657
+Tennessee 4	Scott DesJarlais	DesJarlaisTN04	House	R	235312723
+Tennessee 5	Jim Cooper	repjimcooper	House	D	22523087
+Tennessee 6	Diane Black	RepDianeBlack	House	R	110545675
+Tennessee 7	Marsha Blackburn	MarshaBlackburn	House	R	278145569
+Tennessee 8	Stephen Fincher	RepFincherTN08	House	R	249219716
+Tennessee 9	Steve Cohen	RepCohen	House	D	162069635
+Texas 1	Louie Gohmert	replouiegohmert	House	R	22055226
+Texas 2	Ted Poe	JudgeTedPoe	House	R	74198348
+Texas 3	Sam Johnson	samspressshop	House	R	249288197
+Texas 4	John Ratcliffe	RepRatcliffe	House	R	2847221717
+Texas 5	Jeb Hensarling	RepHensarling	House	R	18566912
+Texas 6	Joe Barton	RepJoeBarton	House	R	19929362
+Texas 7	John Culberson	CongCulberson	House	R	24183358
+Texas 8	Kevin Brady	RepKevinBrady	House	R	19926675
+Texas 9	Al Green	RepAlGreen	House	D	156333623
+Texas 10	Michael McCaul	RepMcCaul	House	R	26424123
+Texas 11	Mike Conaway	ConawayTX11	House	R	295685416
+Texas 12	Kay Granger	RepKayGranger	House	R	161743731
+Texas 13	Mac Thornberry	MacTXPress	House	R	377534571
+Texas 14	Randy Weber	TXRandy14	House	R	1058051748
+Texas 15	Rubén Hinojosa	USRepRHinojosa	House	D	239905257
+Texas 16	Beto O'Rourke	RepBetoORourke	House	D	1134292500
+Texas 17	Bill Flores	RepBillFlores	House	R	237312687
+Texas 18	Sheila Jackson Lee	JacksonLeeTX18	House	D	80612021
+Texas 19	Randy Neugebauer	RandyNeugebauer	House	R	34340464
+Texas 20	Joaquín Castro	JoaquinCastrotx	House	D	231510077
+Texas 21	Lamar S. Smith	LamarSmithTX21	House	R	15856366
+Texas 22	Pete Olson	RepPeteOlson	House	R	20053279
+Texas 23	Will Hurd	HurdOnTheHill	House	R	2963445730
+Texas 24	Kenny Marchant	RepKenMarchant	House	R	23976316
+Texas 25	Roger Williams	RepRWilliams	House	R	1077446982
+Texas 26	 Michael Burgess	michaelcburgess	House	R	15751083
+Texas 27	Blake Farenthold	farenthold	House	R	17896154
+Texas 28	Henry Cuellar	RepCuellar	House	D	210926192
+Texas 29	Gene Green	RepGeneGreen	House	D	111635527
+Texas 30	Eddie Johnson	repebj	House	D	168502762
+Texas 31	John Carter	johnfcarter	House	R	17213701
+Texas 32	Pete Sessions	PeteSessions	House	R	24735461
+Texas 33	Marc Veasey	RepVeasey	House	D	1074129612
+Texas 34	Filemon Vela, Jr.	RepFilemonVela	House	D	1083448909
+Texas 35	Lloyd Doggett	RepLloydDoggett	House	D	153944899
+Texas 36	Brian Babin	RepBrianBabin	House	R	2929491549
+Utah 1	Rob Bishop	RepRobBishop	House	R	148006729
+Utah 2	Chris Stewart	RepChrisStewart	House	R	1072008757
+Utah 3	Jason Chaffetz	jasoninthehouse	House	R	17800215
+Utah 4	Mia Love	MiaBLove	House	R	343171266
+Vermont	Peter Welch	PeterWelch	House	D	1410590874
+Virginia 1	Rob Wittman	RobWittman	House	R	15356407
+Virginia 2	Scott Rigell	RepScottRigell	House	R	221793778
+Virginia 3	Robert Scott	BobbyScott	House	D	161791703
+Virginia 4	Randy Forbes	Randy_Forbes	House	R	15160884
+Virginia 5	Robert Hurt	RepRobertHurt	House	R	234837632
+Virginia 6	Bob Goodlatte	RepGoodlatte	House	R	37920978
+Virginia 7	Dave Brat	RepDaveBrat	House	R	2560169238
+Virginia 8	Don Beyer	RepDonBeyer	House	D	2962868158
+Virginia 9	Morgan Griffith	RepMGriffith	House	R	234057152
+Virginia 10	Barbara Comstock	RepComstock	House	R	2933760046
+Virginia 11	Gerry Connolly	GerryConnolly	House	D	78445977
+Washington 1	Suzan DelBene	RepDelBene	House	D	995193054
+Washington 2	Rick Larsen	RepRickLarsen	House	D	404132211
+Washington 3	Jaime Herrera Beutler	HerreraBeutler	House	R	242926427
+Washington 4	Dan Newhouse	RepNewhouse	House	R	2930635215
+Washington 5	 Cathy McMorris Rodgers	cathymcmorris	House	R	17976923
+Washington 6	Derek Kilmer	RepDerekKilmer	House	D	1058917562
+Washington 7	Jim McDermott	RepJimMcDermott	House	D	132201224
+Washington 8	Dave Reichert	davereichert	House	R	16102244
+Washington 9	Adam Smith	RepAdamSmith	House	D	58928690
+Washington 10	Dennis Heck	RepDennyHeck	House	D	1068499286
+West Virginia 1	David McKinley	RepMcKinley	House	R	240427862
+West Virginia 2	Alex Mooney	RepAlexMooney	House	R	2964526557
+West Virginia 3	Evan Jenkins	RepEvanJenkins	House	R	2953713339
+Wisconsin 1	Paul Ryan	SpeakerRyan	House	R	18916432
+Wisconsin 2	Mark Pocan	repmarkpocan	House	D	1206227149
+Wisconsin 3	Ron Kind	RepRonKind	House	D	112740986
+Wisconsin 4	Gwen Moore	RepGwenMoore	House	D	22669526
+Wisconsin 5	Jim Sensenbrenner	JimPressOffice	House	R	851621377
+Wisconsin 6	Glenn Grothman	RepGrothman	House	R	2976606250
+Wisconsin 7	Sean Duffy	RepSeanDuffy	House	R	234022257
+Wisconsin 8	Reid Ribble	RepRibble	House	R	234053893
+Wyoming	Cynthia Lummis	CynthiaLummis	House	R	22831059
+Alabama 1	Richard Shelby	SenShelby	Senate	R	21111098
+Alabama 2	Jeff Sessions	jeffsessions	Senate	R	986781648
+Alaska 1	Lisa Murkowski	lisamurkowski	Senate	R	18061669
+Alaska 2	Dan Sullivan	SenDanSullivan	Senate	R	2891210047
+Arizona 1	John McCain	SenJohnMcCain	Senate	R	19394188
+Arizona 2	Jeff Flake	JeffFlake	Senate	R	16056306
+Arkansas 1	John Boozman	JohnBoozman	Senate	R	5558312
+Arkansas 2	Tom Cotton	SenTomCotton	Senate	R	968650362
+California 1	Dianne Feinstein	SenFeinstein	Senate	D	476256944
+California 2	Barbara Boxer	SenatorBoxer	Senate	D	15442036
+Colorado 1	Michael Bennet	SenBennetCO	Senate	D	224285242
+Colorado 2	Cory Gardner	SenCoryGardner	Senate	R	235217558
+Connecticut 1	Richard Blumenthal	SenBlumenthal	Senate	D	278124059
+Connecticut 2	Chris Murphy	ChrisMurphyCT	Senate	D	150078976
+Delaware 1	Tom Carper	SenatorCarper	Senate	D	249787913
+Delaware 2	Chris Coons	ChrisCoons	Senate	D	15324851
+Florida 1	Bill Nelson	SenBillNelson	Senate	D	20597460
+Florida 2	Marco Rubio	MarcoRubio	Senate	R	15745368
+Georgia 1	Johnny Isakson	SenatorIsakson	Senate	R	78403308
+Georgia 2	David Perdue	sendavidperdue	Senate	R	2863210809
+Hawaii 1	Brian Schatz	brianschatz	Senate	D	47747074
+Hawaii 2	Mazie Hirono	maziehirono	Senate	D	92186819
+Idaho 1	Mike Crapo	MikeCrapo	Senate	R	600463589
+Idaho 2	Jim Risch	SenatorRisch	Senate	R	1096059529
+Illinois 1	Dick Durbin	DickDurbin	Senate	D	308794407
+Illinois 2	Mark Kirk	SenatorKirk	Senate	R	211588974
+Indiana 1	Joe Donnelly	SenDonnelly	Senate	D	216503958
+Indiana 2	Dan Coats	SenDanCoats	Senate	R	212262370
+Iowa 1	Chuck Grassley	ChuckGrassley	Senate	R	10615232
+Iowa 2	Joni Ernst	joniernst	Senate	R	1383059977
+Kansas 1	Pat Roberts	SenPatRoberts	Senate	R	75364211
+Kansas 2	Jerry Moran	JerryMoran	Senate	R	18632666
+Kentucky 1	Mitch McConnell	McConnellPress	Senate	R	339822881
+Kentucky 2	Rand Paul	RandPaul	Senate	R	216881337
+Louisiana 1	Bill Cassidy	BillCassidy	Senate	R	55677432
+Louisiana 2	David Vitter	DavidVitter	Senate	R	19028248
+Maine 1	Susan Collins	SenatorCollins	Senate	R	19726613
+Maine 2	Angus King	SenAngusKing	Senate	I	1068481578
+Maryland 1	Ben Cardin	SenatorCardin	Senate	D	109071031
+Maryland 2	Barbara Mikulski	SenatorBarb	Senate	D	132278386
+Massachusetts 1	Elizabeth Warren	SenWarren	Senate	D	970207298
+Massachusetts 2	Ed Markey	SenMarkey	Senate	D	21406834
+Michigan 1	Debbie Stabenow	SenStabenow	Senate	D	76456274
+Michigan 2	Gary Peters	SenGaryPeters	Senate	D	236511574
+Minnesota 1	Amy Klobuchar	amyklobuchar	Senate	D	33537967
+Minnesota 2	Al Franken	alfranken	Senate	D	7334402
+Mississippi 1	Thad Cochran	SenThadCochran	Senate	R	555474658
+Mississippi 2	Roger Wicker	SenatorWicker	Senate	R	264219447
+Missouri 1	Claire McCaskill	clairecmc	Senate	D	16160352
+Missouri 2	Roy Blunt	RoyBlunt	Senate	R	21269970
+Montana 1	Jon Tester	jontester	Senate	D	16473577
+Montana 2	Steve Daines	SteveDaines	Senate	R	11651202
+Nebraska 1	Deb Fischer	SenatorFischer	Senate	R	1071402577
+Nebraska 2	Ben Sasse	SenSasse	Senate	R	2962923040
+Nevada 1	Dean Heller	SenDeanHeller	Senate	R	266133081
+Nevada 2	Harry Reid	SenatorReid	Senate	D	16789970
+New Hampshire 1	Jeanne Shaheen	SenatorShaheen	Senate	D	109287731
+New Hampshire 2	Kelly Ayotte	KellyAyotte	Senate	R	229592356
+New Jersey 1	Bob Menendez	SenatorMenendez	Senate	D	18695134
+New Jersey 2	Cory Booker	CoryBooker	Senate	D	15808765
+New Mexico 1	Tom Udall	SenatorTomUdall	Senate	D	60828944
+New Mexico 2	Martin Heinrich	MartinHeinrich	Senate	D	1099199839
+New York 1	Chuck Schumer	SenSchumer	Senate	D	17494010
+New York 2	Kirsten Gillibrand	SenGillibrand	Senate	D	72198806
+North Carolina 1	Richard Burr	SenatorBurr	Senate	R	21157904
+North Carolina 2	Thom Tillis	SenThomTillis	Senate	R	2964174789
+North Dakota 1	John Hoeven	SenJohnHoeven	Senate	R	382791093
+North Dakota 2	Heidi Heitkamp	SenatorHeitkamp	Senate	D	1061029050
+Ohio 1	Sherrod Brown	SenSherrodBrown	Senate	D	43910797
+Ohio 2	Rob Portman	senrobportman	Senate	R	18915145
+Oklahoma 1	Jim Inhofe	JimInhofe	Senate	R	7270292
+Oklahoma 2	James Lankford	SenatorLankford	Senate	R	225921757
+Oregon 1	Ron Wyden	RonWyden	Senate	D	250188760
+Oregon 2	Jeff Merkley	SenJeffMerkley	Senate	D	29201047
+Pennsylvania 1	Bob Casey Jr.	Bob_Casey	Senate	D	94154021
+Pennsylvania 2	Pat Toomey	PatToomey	Senate	R	26062385
+Rhode Island 1	Jack Reed	SenJackReed	Senate	D	486694111
+Rhode Island 2	Sheldon Whitehouse	SenWhitehouse	Senate	D	242555999
+South Carolina 1	Lindsey Graham	LindseyGrahamSC	Senate	R	432895323
+South Carolina 2	Tim Scott	SenatorTimScott	Senate	R	217543151
+South Dakota 1	John Thune	SenJohnThune	Senate	R	296361085
+South Dakota 2	Mike Rounds	SenatorRounds	Senate	R	2955485182
+Tennessee 1	Lamar Alexander	SenAlexander	Senate	R	76649729
+Tennessee 2	Bob Corker	SenBobCorker	Senate	R	73303753
+Texas 1	John Cornyn	JohnCornyn	Senate	R	13218102
+Texas 2	Ted Cruz	tedcruz	Senate	R	23022687
+Utah 1	Orrin Hatch	senorrinhatch	Senate	R	262756641
+Utah 2	Mike Lee	SenMikeLee	Senate	R	88784440
+Vermont 1	Patrick Leahy	SenatorLeahy	Senate	D	242836537
+Vermont 2	Bernie Sanders	BernieSanders	Senate	I	216776631
+Virginia 1	Mark Warner	MarkWarner	Senate	D	7429102
+Virginia 2	Tim Kaine	timkaine	Senate	D	172858784
+Washington 1	Patty Murray	PattyMurray	Senate	D	293131808
+Washington 2	Maria Cantwell	SenatorCantwell	Senate	D	117501995
+West Virginia 1	Joe Manchin	Sen_JoeManchin	Senate	D	234374703
+West Virginia 2	Shelley Moore Capito	SenCapito	Senate	R	193794406
+Wisconsin 1	Ron Johnson	SenRonJohnson	Senate	R	233737858
+Wisconsin 2	Tammy Baldwin	SenatorBaldwin	Senate	D	1074518754
+Wyoming 1	Mike Enzi	SenatorEnzi	Senate	R	291756142
+Wyoming 2	John Barrasso	SenJohnBarrasso	Senate	R	202206694
+		hillaryclinton			1339835893
+		berniesanders			216776631
+		sensanders			29442313
+		martinomalley			15824288
+		realdonaldtrump			25073877
+		tedcruz			23022687
+		johnkasich			18020081
+		marcorubio			15745368
+		chrischristie			1347285918
+		realbencarson			1180379185
+		jebbush			113047940
